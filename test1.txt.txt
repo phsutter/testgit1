@@ -1,2 +1,3 @@
 Dies ist der erste Test mit GIT!
 Nun mit Aenderung.
+dritte anpassung
