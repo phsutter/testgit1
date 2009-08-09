@@ -2,5 +2,5 @@ Dies ist der erste Test mit GIT!
 Nun mit Aenderung.
 vierte Anpassung
 hoohoo hier kommt der bugfix 3
-5. Anpassung
+5. Anpassung mit bugfix 7
 6. Anpassung
