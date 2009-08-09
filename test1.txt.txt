@@ -3,4 +3,5 @@ Nun mit Aenderung.
 vierte Anpassung
 hoohoo hier kommt der bugfix 3
 5. Anpassung mit bugfix 7
+bugfix 7 teil 2
 6. Anpassung
